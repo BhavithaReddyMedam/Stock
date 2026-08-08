@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Crawler">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Stock-Market-Recommendation-System-master/Crawler/dist/Crawler.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
